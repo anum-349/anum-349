@@ -1,323 +1,88 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-# Hi, I'm Anum Kousar 👋
+# Anum Kousar
+### Software Engineer — AI & Full-Stack Development
 
-### Junior Software Engineer · AI & Full-Stack Developer
-
-Building **AI-powered applications, intelligent backends, and modern web experiences.**
-
-<br>
-
-<a href="https://github.com/anum-349">
-  <img src="https://img.shields.io/badge/GitHub-anum--349-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/anum-kousar">
-  <img src="https://img.shields.io/badge/LinkedIn-Anum%20Kousar-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:anumkousar552@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=anum-349&style=flat-square&color=blue" alt="Profile views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-anum--349-181717?style=flat-square&logo=github)](https://github.com/anum-349)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anum%20Kousar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anum-kousar)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anumkousar552@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a **Software Engineering graduate from International Islamic University, Islamabad**, interested in building practical software that combines **AI with real-world applications**.
-
-My experience spans:
-
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🧠 **NLP, RAG & semantic search**
-* 🐍 **Python backend development**
-* ⚡ **FastAPI & Flask**
-* 🌐 **React & Next.js**
-* 🔗 **REST APIs & full-stack applications**
-* 🗄️ **SQL & NoSQL databases**
-* 🐳 **Git & Docker**
-
-I enjoy working on problems where software is more than just a CRUD application — especially systems that can **understand documents, retrieve information, automate tasks, or assist people in making sense of complex data.**
+Software Engineering graduate (International Islamic University, Islamabad) building AI-powered applications — RAG systems, semantic search, and NLP pipelines — backed by solid full-stack engineering in Python and React/Next.js.
 
 ---
 
-## 🚀 What I'm Building Toward
+## Projects
 
-```text
-AI Engineering
-     │
-     ├── Generative AI
-     ├── RAG & Semantic Search
-     ├── NLP
-     ├── AI-powered Applications
-     │
-     └── Full-Stack Engineering
-             ├── Python / FastAPI
-             ├── React / Next.js
-             ├── REST APIs
-             └── Databases
-```
+**AI Criminal Investigation Assistant** — Desktop platform for bilingual FIR analysis and case linking.
+`Python · FastAPI · Electron.js · NLP` — NER model: 84.7% F1 · Case linking: 89.2% MAP · SUS score: 81/100
+[Repo →](https://github.com/anum-349/Criminal-Investigation-Assistant)
 
-My goal is to grow into an **AI-focused software engineer** while keeping strong full-stack development skills.
+**SmartDoc Retriever** — RAG-based document search with semantic retrieval.
+`Python · FAISS · LangChain` — 35% higher query accuracy vs. keyword search
+[Repo →](https://github.com/anum-349/SmartDoc-Retriever)
+
+**Learning Management System** — Full-stack LMS with role-based dashboards for admins, instructors, and students.
+`Next.js · Node.js · MongoDB`
+[Repo →](https://github.com/anum-349/Smart-Learning-Management-System)
 
 ---
 
-# ⭐ Featured Projects
+## Experience
 
-## 🕵️ AI Criminal Investigation Assistant
+**MERN Stack Intern** — HH Tech Hub — *Oct 2025 – Jan 2026*
+Built Express.js APIs and React frontends for client LMS/ERP systems.
 
-> AI-powered desktop platform for bilingual FIR analysis and investigative assistance.
+**Machine Learning Intern** — Next Gen Learners — *Aug 2025 – Sep 2025*
+Developed NLP pipelines and ML models for text-processing automation.
 
-**Python · FastAPI · Electron.js · NLP · Machine Learning**
-
-* Analyzed bilingual **First Information Reports (FIRs)**
-* Generated investigative case leads
-* Included crime forecasting capabilities
-* Used **SBERT-based semantic case linking**
-* NER model achieved **84.7% F1**
-* Case linking achieved **89.2% MAP**
-* Usability testing achieved **81/100 SUS**
-
-🔗 **[View Project](https://github.com/anum-349/Criminal-Investigation-Assistant)**
+**Python & JavaScript Intern** — PHP Laravel Experts — *Oct 2024 – Dec 2024*
+Built Flask REST APIs for authentication and data endpoints.
 
 ---
 
-## 📚 SmartDoc Retriever
-
-> A retrieval-augmented document search system designed to find relevant information more intelligently than traditional keyword search.
-
-**Python · FAISS · RAG · LangChain**
-
-* Built a vector-based document retrieval pipeline
-* Used embeddings for semantic document matching
-* Integrated RAG for question answering
-* Improved query accuracy by **35% compared with keyword search**
-* Focused on making large document collections easier to search
-
-🔗 **[View Project](https://github.com/anum-349/SmartDoc-Retriever)**
-
----
-
-## 🎓 Learning Management System
-
-> Full-stack LMS with separate experiences for administrators, instructors and students.
-
-**Next.js · Node.js · MongoDB · REST APIs**
-
-* Role-based dashboards
-* Authentication and authorization
-* Modular REST API architecture
-* Separate permissions for different user roles
-* Responsive web interface
-
-🔗 **[View Project](https://github.com/anum-349/Smart-Learning-Management-System)**
-
----
-
-# 🧠 AI & Machine Learning
-
-### Areas I've Worked With
-
-| Area                  | Technologies                |
-| --------------------- | --------------------------- |
-| Machine Learning      | Python, scikit-learn        |
-| NLP                   | spaCy, NLTK                 |
-| Semantic Search       | SBERT, FAISS                |
-| RAG                   | LangChain, vector retrieval |
-| AI Applications       | Streamlit, Python           |
-| Document Intelligence | OCR, embeddings, retrieval  |
-| APIs                  | FastAPI, Flask, REST        |
-
----
-
-# 💻 Tech Stack
-
-### Languages
+## Skills
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css" />
 </p>
-
-### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,git,docker" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,figma" />
-</p>
+**AI/ML:** scikit-learn · spaCy · SBERT · FAISS · LangChain · RAG · OCR
 
 ---
 
-# 🛠️ Things I Can Build
+## Education
 
-```text
-AI Applications
-├── RAG systems
-├── Semantic search
-├── NLP pipelines
-├── Document intelligence
-└── ML-powered applications
-
-Backend Systems
-├── REST APIs
-├── FastAPI services
-├── Flask applications
-├── Authentication
-└── Database-driven systems
-
-Full-Stack Applications
-├── React
-├── Next.js
-├── Node.js
-├── Role-based dashboards
-└── Responsive interfaces
-```
+**BS Software Engineering** — International Islamic University, Islamabad — 2022–2026 — CGPA 3.57/4.0
 
 ---
 
-# 💼 Experience
-
-### MERN Stack Intern
-
-**HH Tech Hub · Oct 2025 – Jan 2026**
-
-Worked on full-stack modules for real-client **LMS and ERP systems**, including Express.js APIs consumed by React frontends.
-
-### Machine Learning Intern
-
-**Next Gen Learners · Aug 2025 – Sep 2025**
-
-Worked with machine-learning models and NLP pipelines for real-world datasets and text-processing automation.
-
-### Python & JavaScript Intern
-
-**PHP Laravel Experts · Oct 2024 – Dec 2024**
-
-Built Flask REST APIs covering authentication and data endpoints while working on recurring application issues and stability improvements.
-
----
-
-# 🎓 Education
-
-**Bachelor of Software Engineering**
-
-International Islamic University, Islamabad
-**2022 – 2026 · CGPA 3.57 / 4.0**
-
-Relevant areas:
-
-`Artificial Intelligence` · `Machine Learning` · `Databases` · `Operating Systems` · `Computer Networks` · `Data Structures`
-
----
-
-# 📜 Certifications
-
-* 🧠 Machine Learning — NextGenLearners
-* 🤖 Build with AI — Google Workshop
-* 💻 C++ Developer — DEN
-* 🐍 Python — HackerRank
-* 💼 Freelancing — DigiSkills
-
----
-
-# 📊 GitHub
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anum-349&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anum-349&layout=compact&hide_border=true" height="170"/>
-
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=anum-349&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anum-349&layout=compact&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=anum-349&hide_border=true" />
 
-</div>
-
----
-
-# 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-I'm currently focusing on becoming stronger in:
-
-* Generative AI
-* RAG architectures
-* LLM application development
-* AI agents & automation
-* Advanced Python
-* Backend architecture
-* Production-ready APIs
-* Cloud deployment
-* System design
-
----
-
-# 🎯 2026 Goals
-
-```text
-✓ Build real-world full-stack applications
-✓ Work with AI / ML systems
-✓ Build RAG-based applications
-→ Strengthen production backend skills
-→ Build more AI-powered products
-→ Contribute to real-world software teams
-→ Grow into an AI-focused Software Engineer
-```
-
----
-
-# 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-
-**AI Engineering · Machine Learning · Python · Backend Development · Full-Stack Development · Generative AI · RAG**
-
-<br>
-
 <div align="center">
-
-### Building things, learning continuously, and turning ideas into working software. 🚀
-
-<br>
-
-<a href="mailto:anumkousar552@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/anum-kousar">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+Open to roles in AI Engineering, Backend Development, and Full-Stack Engineering.
 </div>
